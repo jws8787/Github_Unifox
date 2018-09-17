@@ -14,3 +14,4 @@ class StudentRecord:
             self.sort_id.append(i.get("student_id"))
         self.sort_id.sort()
         print(self.sort_id)
+        
